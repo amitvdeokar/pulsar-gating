@@ -1,0 +1,3 @@
+Pulsar: J0332+5434
+Pulsar period: 714.538318551 ms
+Dispersion measure: 26.76429367 pc/cc
